@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.666">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldAddEmployeeName" time="17.783" classname="com.orangehrm.testsuite.DashboardTest" />
+                <testcase name="verifyUserShouldClickOnAdminFeature" time="9.883" classname="com.orangehrm.testsuite.DashboardTest" />
+      
+</testsuite>
